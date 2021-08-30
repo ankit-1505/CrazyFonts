@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:wght@500&display=swap&effect=shadow-multiple|fire-animation|neon|3d-float|anaglyph");
+/* replace css2 with css */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* The CSS box-sizing property allows us to include the padding and border in an element's total width and height. */
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+h2 {
+  font-size: 6em;
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+    font-size: 8em;
+    font-family: "Poppins", sans-serif;
+  }
